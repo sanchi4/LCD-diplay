@@ -21,4 +21,4 @@ This is a program that prints numbers in LCD display style
 | |   | | |   | | |
 | |   | | |   | | |
 | |   | | |   | | |
----     --- --- ---
+---     --- --- --- 
